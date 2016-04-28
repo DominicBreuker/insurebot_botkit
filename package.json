@@ -1,0 +1,19 @@
+{
+  "name": "insurebot_botkit",
+  "version": "1.0.0",
+  "description": "Testbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DominicBreuker/insurebot_botkit.git"
+  },
+  "author": "Dominic Breuker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DominicBreuker/insurebot_botkit/issues"
+  },
+  "homepage": "https://github.com/DominicBreuker/insurebot_botkit#readme"
+}
